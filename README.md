@@ -56,5 +56,9 @@
 
 ---
 ![Alt text](./assets/gif.gif)
-
-![Snake animation](https://github.com/Matheus-Borges-Never/Matheus-Borges-Never/blob/output/github-contribution-grid-snake.svg)
+ 
+<div align="center">
+  
+  ![Snake animation](https://github.com/Matheus-Borges-Never/Matheus-Borges-Never/blob/output/github-contribution-grid-snake.svg)
+  
+</div>

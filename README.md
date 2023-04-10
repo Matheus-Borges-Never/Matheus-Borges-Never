@@ -6,7 +6,7 @@
 
 ### About me
 
-- I am an 18yo Brazilian Full-Stack develope.
+- I am an 19yo Brazilian Full-Stack develope.
 
 ---
 ### Social Media

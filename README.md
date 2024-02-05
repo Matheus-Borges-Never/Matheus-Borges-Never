@@ -6,7 +6,8 @@
 
 ### About me
 
-- I am an 19yo Brazilian Full-Stack develope.
+- I am an 20yo Brazilian Full-Stack develope.
+- Developer in Unimed Pay
 
 ---
 ### Social Media
